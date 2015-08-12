@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cast</string>
+    <string name="cast">Cast</string>
+    <string name="choose_device_to_cast">Choose device to cast this image</string>
+</resources>
